@@ -4,5 +4,5 @@ def lune (liste):
     if (j="lune"):
       return i
       
-astre["mars","lune","terre"]
+astre=["mars","lune","terre"]
 lune(astre)
